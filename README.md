@@ -1,2 +1,2 @@
 # Proyecto-Machine-Learning
-Este proyecto es parte del diploma de Análisis de Datos.
+Este repositorio contiene los proyectos finales del curso de Machine Learning en Azure ML Studio para obtener el diploma en Análisis de Datos.
